@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Dipta Dey",
+      "email": "dipta995@gmail.com",
+      "phone": "01632315608",
+      "password": "12345678",
+      "address": "Dhaka lalbagh",
+      "id": 1
+    }
+  ]
+}
